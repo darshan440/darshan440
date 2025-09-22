@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+ <a href="https://www.linkedin.com/in/darshan-thakkar-563369246/">
+    <img
+      alt="Darshan Thakkar - Developer"
+      src="assets/DarshanThakkar.dev.png"
+      width="100%"
+    />
+  </a>
+
 <!--
 **darshan440/darshan440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

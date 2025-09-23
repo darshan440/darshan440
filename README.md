@@ -11,17 +11,18 @@
   <br/>
 
   [![Profile Views](https://komarev.com/ghpvc/?username=darshan440&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/darshan440)
+
+<p align="center">
   <a href="https://x.com/DarshanWebDev" target="_blank">
-  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Darshan Thakkar | Twitter" />
-</a>
-
-<a href="https://linkedin.com/in/darshan-thakkar-563369246/" target="_blank">
-  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Darshan Thakkar | Linkedin" />
-</a>
-
-<a href="https://github.com/darshan440" target="_blank">
-  <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Darshan Thakkar | GitHub" />
-</a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Darshan Thakkar | Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/darshan-thakkar-563369246/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Darshan Thakkar | Linkedin" />
+  </a>
+  <a href="https://github.com/darshan440" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Darshan Thakkar | GitHub" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

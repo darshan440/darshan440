@@ -14,7 +14,7 @@
 
   <div align="left">
       <a href="https://github.com/darshan440">
-  [![Profile Views](https://komarev.com/ghpvc/?username=darshan440&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/darshan440)
+    <img src="https://komarev.com/ghpvc/?username=darshan440&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile Views" />
   </a>
   </div>
 <div align="right">

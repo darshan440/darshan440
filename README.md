@@ -83,7 +83,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </span>
 <span>
   <a href="https://darshanthakkar.dev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=darshan440&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" alt="WakaTime Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=@2d986c0d-2aee-4659-bb10-0ff8b4f06fb3&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" alt="WakaTime Stats" />
   </a>
 </span>
 
